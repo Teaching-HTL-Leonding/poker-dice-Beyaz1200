@@ -1,0 +1,15 @@
+C:\pro\Poker\bin\Debug\net7.0\Poker.exe
+C:\pro\Poker\bin\Debug\net7.0\Poker.deps.json
+C:\pro\Poker\bin\Debug\net7.0\Poker.runtimeconfig.json
+C:\pro\Poker\bin\Debug\net7.0\Poker.dll
+C:\pro\Poker\bin\Debug\net7.0\Poker.pdb
+C:\pro\Poker\obj\Debug\net7.0\Poker.csproj.AssemblyReference.cache
+C:\pro\Poker\obj\Debug\net7.0\Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\Poker\obj\Debug\net7.0\Poker.AssemblyInfoInputs.cache
+C:\pro\Poker\obj\Debug\net7.0\Poker.AssemblyInfo.cs
+C:\pro\Poker\obj\Debug\net7.0\Poker.csproj.CoreCompileInputs.cache
+C:\pro\Poker\obj\Debug\net7.0\Poker.dll
+C:\pro\Poker\obj\Debug\net7.0\refint\Poker.dll
+C:\pro\Poker\obj\Debug\net7.0\Poker.pdb
+C:\pro\Poker\obj\Debug\net7.0\Poker.genruntimeconfig.cache
+C:\pro\Poker\obj\Debug\net7.0\ref\Poker.dll
